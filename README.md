@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Str1am
-- 👀 I’m interested in Penetration testing，code audit
+- 👀 the public: Str1am Record
 - 💞️ Blog：www.str1am.top
 - 📫 wx：c3RyMWFtX3RvcA==
 
