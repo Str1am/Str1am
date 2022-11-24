@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Str1am
-- 👀 the public: Str1am Record
+- 👀 Official Wechat: Str1am Record
 - 💞️ Blog：www.str1am.top
 - 📫 wx：c3RyMWFtX3RvcA==
 
